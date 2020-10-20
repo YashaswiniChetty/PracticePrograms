@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7678989c-c5df-4b49-8898-ec2eaea890b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticePrograms/META-INF/PracticePrograms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HakerRank/AngryProfessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HakerRank/AngryProfessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HakerRank/PlusMinus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HakerRank/PlusMinus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/InsertionSort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +53,29 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HakerRank/AngryProfessor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/ReverseInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -118,6 +134,8 @@
         <option value="$PROJECT_DIR$/src/HakerRank/AngryProfessor.java" />
         <option value="$PROJECT_DIR$/src/HakerRank/PlusMinus.java" />
         <option value="$PROJECT_DIR$/src/sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/ReverseInteger.java" />
       </list>
     </option>
   </component>
@@ -149,6 +167,18 @@
               <item name="PracticePrograms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="HakerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticePrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticePrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PracticePrograms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PracticePrograms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="regex" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PracticePrograms" type="b2602c69:ProjectViewProjectNode" />
@@ -285,12 +315,12 @@
       <option name="presentableId" value="Default" />
       <updated>1602588227779</updated>
       <workItem from="1602588231711" duration="13445000" />
-      <workItem from="1602831320378" duration="6343000" />
+      <workItem from="1602831320378" duration="7346000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19788000" />
+    <option name="totallyTimeSpent" value="20791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -396,6 +426,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/ReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
