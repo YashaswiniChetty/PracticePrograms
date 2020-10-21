@@ -35,6 +35,37 @@ package BST;
             postOrder(node.right);
             System.out.print(node.data + " ");
         }
+
+        public int sumOfAllNodes(Node node){
+            if(node == null){
+                return 0;
+            }
+            return node.data+sumOfAllNodes(node.left)+sumOfAllNodes(node.right);
+        }
+
+        public int diffOfEvenAndOddLevels(Node node){
+            if(node == null){
+                return 0;
+            }
+            return node.data-diffOfEvenAndOddLevels(node.left)-diffOfEvenAndOddLevels(node.right);
+        }
+
+        public int numberOfNodes(Node node){
+            if(node == null){
+                return 0;
+            }
+            return 1+numberOfNodes(node.left)+numberOfNodes(node.right);
+        }
+
+        public int numberOfLeafNodes(Node node){
+            if(node == null){
+                return 0;
+            }
+            if(node.left==null && node.right==null){
+                return 1;
+            }
+            return numberOfLeafNodes(node.left)+numberOfLeafNodes(node.right);
+        }
         }
 
 
